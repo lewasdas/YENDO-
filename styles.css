@@ -815,6 +815,22 @@ ul {
     font-size: 0.875rem;
 }
 
+.designer-credit {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #475569;
+}
+
+.designer-credit a {
+    color: var(--color-violet-light);
+    font-weight: 500;
+}
+
+.designer-credit a:hover {
+    color: var(--color-green-light);
+    text-decoration: underline;
+}
+
 /* Floating Action Button */
 .floating-whatsapp {
     position: fixed;
