@@ -737,8 +737,10 @@ ul {
 }
 
 .ci-text strong {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: var(--color-dark);
+    line-height: 1.4;
+    white-space: nowrap;
 }
 
 .social-links {
